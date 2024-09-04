@@ -30,6 +30,6 @@ public class Dev {
 
          comp.compile();
 
-         System.out.println(("Working on Awesome Project"));
+         System.out.println(("Working on Awesome Project2"));
      }
 }
